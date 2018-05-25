@@ -2,10 +2,7 @@ package com.tme.Algorithms;
 
 
 
-/**
- *作者 赵智舜
- *时间 2014-5-6
- */
+
 public class ProblemItem{
 	private static final long serialVersionUID = 1L;
 
